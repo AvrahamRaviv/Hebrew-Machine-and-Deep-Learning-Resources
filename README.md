@@ -1,5 +1,5 @@
 # Hebrew-Machine-and-Deep-Learning-Resources
-Hebrew Machine and Deep Learning Tutorials
+המדריך המלא לבינה מלאכותית ודאטה סיינס בעברית
 
 ## Table of Contents
 
