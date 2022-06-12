@@ -24,6 +24,7 @@
 
 1.  [למידת מכונה ולמידה עמוקה בעברית](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew)
 2.  [סקירות מאמרים בעברית - Deepnightlearners](https://machinelearning.co.il/tag/deepnightlearners/)
+3.  [מבוא למערכות לומדות](https://technion046195.netlify.app/)
 
 -------------------------------------
 
@@ -45,19 +46,33 @@
 ## חוקרים
 
 #### טכניון
-1. א
+1. [אורי שליט - healthcare, causal inference](https://web.iem.technion.ac.il/site/he/academicstaff/uri-shalit/)
+2. [איילת טל - Computer graphics and Computer vision](https://webee.technion.ac.il/~ayellet/)
+3. [דן גרבר - Algorithmic foundations of Machine Learning, data science, and optimization](https://dangar.net.technion.ac.il/)
 
 #### תל אביב
-1. א
+1. [אמיר גלוברסון - theoretical understanding of deep learning to architectures for semantic analysis of text and images](https://cs3801.wixsite.com/amirgloberson)
+2. [דניאל כהן אור - Computer Vision](https://danielcohenor.com/)
+
+
+#### העברית
+1. [אמנון שעשוע - Computer Vision and Machine Learning](https://www.cs.huji.ac.il/~shashua/)
+2. [ארי רפפורט - NLP](https://www.cs.huji.ac.il/w~arir/)
+3. [גיא כץ - Verification of ML solutios](https://www.katz-lab.com/publications)
+4. [דפנה ווינשל - Computer Vision](https://www.cs.huji.ac.il/~daphna/)
 
 #### בן גוריון
-1. א
+1. [אורן פרייפלד - Vision, Inference, and Learning (VIL) group](https://www.cs.bgu.ac.il/~orenfr/)
+2. [אריה קנטרוביץ' - Probability_theory_and_statistics](https://www.cs.bgu.ac.il/~karyeh/)
+3. [קובי גל](https://datasciencelab.ise.bgu.ac.il/)
 
 #### בר אילן
-1. א
+1. [אופיר לינדנבאום - Unsupervised Learning, Feature selection](https://www.eng.biu.ac.il/lindeno/)
+2. [גל צ'צ'יק - מדעי המח](https://chechiklab.biu.ac.il/)
 
 #### מכון ויצמן
 1. [אוהד שמיר - ראייה ממוחשבת](https://sites.google.com/site/aharonbarhillel/)
+2. [גיורא אלכסנדרון - Artificial Intelligence in Education, Learning Analytics, Educational Data Science, and Computer Science Education](https://www.weizmann.ac.il/ScienceTeaching/Alexandron/)
 
 #### אריאל
 1. א 
