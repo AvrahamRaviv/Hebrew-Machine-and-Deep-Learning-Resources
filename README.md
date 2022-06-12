@@ -49,10 +49,13 @@
 1. [אורי שליט - healthcare, causal inference](https://web.iem.technion.ac.il/site/he/academicstaff/uri-shalit/)
 2. [איילת טל - Computer graphics and Computer vision](https://webee.technion.ac.il/~ayellet/)
 3. [דן גרבר - Algorithmic foundations of Machine Learning, data science, and optimization](https://dangar.net.technion.ac.il/)
+4. [יוסי קשת - Human speech](https://u.cs.biu.ac.il/~keshetj/)
 
 #### תל אביב
 1. [אמיר גלוברסון - theoretical understanding of deep learning to architectures for semantic analysis of text and images](https://cs3801.wixsite.com/amirgloberson)
 2. [דניאל כהן אור - Computer Vision](https://danielcohenor.com/)
+3. [יונתן ברנט - NLP](http://www.cs.tau.ac.il/~joberant/)
+4. [עמית ברמנו - Computer Graphics, Computer Vision, and Copmutational Fabrication](https://www.cs.tau.ac.il/~amberman/)
 
 
 #### העברית
@@ -60,25 +63,35 @@
 2. [ארי רפפורט - NLP](https://www.cs.huji.ac.il/w~arir/)
 3. [גיא כץ - Verification of ML solutios](https://www.katz-lab.com/publications)
 4. [דפנה ווינשל - Computer Vision](https://www.cs.huji.ac.il/~daphna/)
+5. [יאיר וייס - Human and machine vision. Machine Learning. Bayesian methods. Neural computation](https://www.cs.huji.ac.il/~yweiss/)
 
 #### בן גוריון
 1. [אורן פרייפלד - Vision, Inference, and Learning (VIL) group](https://www.cs.bgu.ac.il/~orenfr/)
 2. [אריה קנטרוביץ' - Probability_theory_and_statistics](https://www.cs.bgu.ac.il/~karyeh/)
 3. [קובי גל](https://datasciencelab.ise.bgu.ac.il/)
+4. [חיים פרמוטר - תורת האינפורמציה](https://www.ee.bgu.ac.il/~haimp/)
 
 #### בר אילן
 1. [אופיר לינדנבאום - Unsupervised Learning, Feature selection](https://www.eng.biu.ac.il/lindeno/)
-2. [גל צ'צ'יק - מדעי המח](https://chechiklab.biu.ac.il/)
+2. [איתן פתיה - Bayesian models, Computer vision](https://www.eng.biu.ac.il/fetayae/)
+3. [גל צ'צ'יק - מדעי המח](https://chechiklab.biu.ac.il/)
+4. [יואב גולדברג - NLP](https://www.cs.bgu.ac.il/~yoavg/uni/)
+5. [יעקב גולדברגר - Statistical Machine Learning and Deep Learning algorithms](http://www.eng.biu.ac.il/goldbej/)
+6. [עידו דגן - NLP](http://u.cs.biu.ac.il/~dagan/)
+7. [שרון גנות -  Signal processing and Speech](https://www.eng.biu.ac.il/gannot/)
 
 #### מכון ויצמן
 1. [אוהד שמיר - ראייה ממוחשבת](https://sites.google.com/site/aharonbarhillel/)
 2. [גיורא אלכסנדרון - Artificial Intelligence in Education, Learning Analytics, Educational Data Science, and Computer Science Education](https://www.weizmann.ac.il/ScienceTeaching/Alexandron/)
+3. [טלי דקל - Computer vision](https://www.weizmann.ac.il/math/dekel/)
 
 #### אריאל
-1. א 
+1. [אסף חוגי - Computer vision and Imaging](https://www.ariel.ac.il/projects/trp/GeneralInformation.asp?numRec=751&id_lang=2)
+2. [עמוס עזריה - Human-agent interaction, RL](http://azariaa.com/)
 
 #### רייכמן
-1. א
+1. [אריאל שמיר - image & video processing, geometric modeling, computer graphics](https://faculty.runi.ac.il/arik/site/index.asp)
+2. [יעל מוזס - Computer vision](https://www.runi.ac.il/faculty/yael)
 
 
 -------------------------------------
