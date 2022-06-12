@@ -76,6 +76,7 @@
 ### אירועים וכנסים
 
 1. [גרסאות מקומיות של כנסים בינלאומיים - ישראלים שפרסמו מאמרים בכנסים הנחשבים ביותר מרצים בקצרה על המאמרים שלהם](https://www.youtube.com/playlist?list=PL1FoIGqsXJ_CoVJq2gunb1kpaE67rccjP)
+2. [מיטאפים של קהילת NLP IL](https://www.youtube.com/channel/UCXfXbnzKRgiZcTgnTK1uiqg)
 
 -------------------------------------
 
