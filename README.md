@@ -3,83 +3,52 @@ Hebrew Machine and Deep Learning Tutorials
 
 ## Table of Contents
 
-* **[Books](#books)**
+* **[ספרים](#ספרים וסיכומים)**
 
-* **[Courses](#courses)**  
+* **[קורסים והרצאות מוקלטות](#קורסים והרצאות מוקלטות)**  
 
-* **[Videos and Lectures](#videos-and-lectures)**  
+* **[חוקרים](#חוקרים)**  
 
-* **[Papers](#papers)**  
+* **[דאטה](#דאטה)**
 
-* **[Tutorials](#tutorials)**  
+* **[אירועים וכנסים](#אירועים וכנסים)**
 
-* **[Researchers](#researchers)**  
-
-* **[Websites](#websites)**  
-
-* **[Datasets](#datasets)**
-
-* **[Conferences](#Conferences)**
-
-* **[Frameworks](#frameworks)**  
-
-* **[Tools](#tools)**  
-
-* **[Miscellaneous](#miscellaneous)**  
+* **[שונות](#שונות)**
 
 * **[Contributing](#contributing)**  
 
 
-### Books
+### ספרים וסיכומים
 
 1.  [למידת מכונה ולמידה עמוקה בעברית](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew)
 2.  [Deepnightlearners - סקירות מאמרים בעברית](https://machinelearning.co.il/tag/deepnightlearners/)
 
-### Courses
+### קורסים והרצאות מוקלטות
 
-1.  ?
-
-### Videos and Lectures
-
-1.  ?
-
-### Papers
-*You can also find the most cited deep learning papers from [here](https://github.com/terryum/awesome-deep-learning-papers)*
-
-1.  ?
-
-### Tutorials
-
-1.  ?
-
-## Researchers
-
-1. ?
+1.  [וואן שוט לרנינג - ?תיאור?](https://www.oneshotlearning.io/)
+2.  [דיפ קורונה אקדמי - הרצאות על מאמרים עדכניים](https://www.youtube.com/channel/UCjDbU-BKPSN0UsFq6obukUg)
 
 
-### Websites
 
-1.  ?
+## חוקרים
 
-### Datasets
+1. א
 
-1.  ?
 
-### Conferences
+### דאטה
 
-1. ?
+1.  א
 
-### Frameworks
+### אירועים וכנסים
 
-1.  ?
+1. א
 
-### Tools
+### שונות
 
-1.  ?
+1. [איך להכנס לתחום? - האם לעשות תואר שני](https://machinelearning.co.il/5237/msc/#more-5237)
+2. [איך נכנסים לעולם הדאטה סיינס - המתכון המלא](https://www.spreaker.com/user/pimedia/data-part-a?utm_campaign=episode-title&utm_medium=app&utm_source=widget)
 
-### Miscellaneous
 
-1.  ?
 
 -----
 ### Contributing
