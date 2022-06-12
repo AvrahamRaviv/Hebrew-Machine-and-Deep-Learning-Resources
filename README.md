@@ -1,7 +1,7 @@
 # Hebrew-Machine-and-Deep-Learning-Resources
 המדריך המלא לבינה מלאכותית ודאטה סיינס בעברית
 
-## Table of Contents
+## תוכן עניינים
 
 * **[ספרים וסיכומים](#ספרים-וסיכומים)**
 
