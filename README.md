@@ -28,9 +28,15 @@
 
 ### קורסים והרצאות מוקלטות
 
-1.  [וואן שוט לרנינג - ?תיאור?](https://www.oneshotlearning.io/)
-2.  [דיפ קורונה אקדמי - הרצאות על מאמרים עדכניים](https://www.youtube.com/channel/UCjDbU-BKPSN0UsFq6obukUg)
-3.  [פודקאסט ExplAInable - אורי גורן ותמיר נווה מדברים על Machine Learning ואתגרים בתעשייה עם מומחים מהתחום](https://explainable.podbean.com/)
+1.  [עיבוד שפות טבעיות - עידו דגן ויואב גולדברג (2018)](https://www.youtube.com/playlist?list=PLM96W_EHEqh78zJ0bPqT3Wy8DPHbJU-Zh)
+2.  [למידה עמוקה - עמוס עזריה (2021)](https://www.youtube.com/watch?v=A74z-DzYt9c&list=PLRMgNpO86xg0ZRHA0QeQsvn57dq4v7iaL)
+3.  [למידה מבוססת חיזוקים - עמוס עזריה (2021)](https://www.youtube.com/watch?v=qZwM9Yxyyoo&list=PLRMgNpO86xg1QBVfnSDuzuZAPC-AdbrF6)
+4.  [למידת מכונה לתיכוניסטים - קובי מייק ואריאל בר יצחק (2020)](https://www.youtube.com/watch?v=-NvEeTnk6Ew&list=PLUGwirBvkRnv2IZ1CnrLp7tg7I-YvuVG_)
+5.  [מדעי הנתונים ולמידת מכונה - קובי מייק ואריאל בר יצחק (2020)](https://www.youtube.com/playlist?list=PLUGwirBvkRns7QihJpzVt_u9ab2xVX2Z7)
+6.  [למידת מכונה - יוסי קשת (2018)](https://www.youtube.com/playlist?list=PLM96W_EHEqh7QUKH_z-z-2muKa42n0zpK)
+7.  [דיפ קורונה אקדמי - הרצאות על מאמרים עדכניים (2020)](https://www.youtube.com/channel/UCjDbU-BKPSN0UsFq6obukUg)
+8.  [וואן שוט לרנינג - שוקי כהן ויואל זלדס פותרים אתגרים בלייב](https://www.oneshotlearning.io/)
+9.  [פודקאסט ExplAInable - אורי גורן ותמיר נווה מדברים על Machine Learning ואתגרים בתעשייה עם מומחים מהתחום](https://explainable.podbean.com/)
 
 
 
