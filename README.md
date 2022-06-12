@@ -15,7 +15,7 @@
 
 * **[שונות](#שונות)**
 
-* **[Contributing](#contributing)**  
+* **[השתתפות בפרוייקט](#השתתפות-בפרוייקט)**  
 
 
 ### ספרים וסיכומים
@@ -63,5 +63,5 @@
 
 
 -----
-### Contributing
-Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls).
+### השתתפות בפרוייקט
+אם יש לכם מה להוסיף לפרוייקט - אתם יותר ממוזמנים לפתוח [pull request](https://github.com/AvrahamRaviv/Hebrew-Machine-and-Deep-Learning-Resources/pulls).
