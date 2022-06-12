@@ -32,7 +32,8 @@ Hebrew Machine and Deep Learning Tutorials
 
 ### Books
 
-1.  ?
+1.  [למידת מכונה ולמידה עמוקה בעברית](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew)
+2.  [Deepnightlearners - סקירות מאמרים בעברית](https://machinelearning.co.il/tag/deepnightlearners/)
 
 ### Courses
 
