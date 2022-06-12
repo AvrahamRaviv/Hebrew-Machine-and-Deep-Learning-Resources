@@ -1,5 +1,4 @@
-# Hebrew-Machine-and-Deep-Learning-Resources
-המדריך המלא לבינה מלאכותית ודאטה סיינס בעברית
+# המדריך המלא לבינה מלאכותית ודאטה סיינס בעברית
 
 ## תוכן עניינים
 
@@ -17,7 +16,8 @@
 
 * **[השתתפות בפרוייקט](#השתתפות-בפרוייקט)**  
 
---------------------------------------
+
+-------------------------------------
 
 
 ### ספרים וסיכומים
@@ -59,8 +59,7 @@
 9. [מדריך להרכבת מחשב ייעודי ל-Deep Learning](https://machinelearning.co.il/536/deeplearninghardware/?fbclid=IwAR27jONy3wX0BeNCzQJUDDdh8TkNGc-TlCQ2fdVEUazopAcVKVP2i1n-py4)
 10. [איך להכנס לתחום? - האם לעשות תואר שני](https://machinelearning.co.il/5237/msc/#more-5237)
 11. [איך נכנסים לעולם הדאטה סיינס - המתכון המלא](https://www.spreaker.com/user/pimedia/data-part-a?utm_campaign=episode-title&utm_medium=app&utm_source=widget)
-
-7. [איך לבחור את הקורס הטוב ביותר עבורכם](https://machinelearning.co.il/2424/4coursetips/?fbclid=IwAR0BGvkbJ1VftKuF1w2diBsh6jFgLWxTN7vaujNEyqbu5bUbWzX6KHQt8jo)
+12. [איך לבחור את הקורס הטוב ביותר עבורכם](https://machinelearning.co.il/2424/4coursetips/?fbclid=IwAR0BGvkbJ1VftKuF1w2diBsh6jFgLWxTN7vaujNEyqbu5bUbWzX6KHQt8jo)
 
 
 
