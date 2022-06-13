@@ -71,6 +71,7 @@
 5. [נדב כהן - Theoretical and algorithmic foundations of Deep Learning](https://www.cohennadav.com/)
 6. [עמית ברמנו - Computer Graphics, Computer Vision, and Copmutational Fabrication](https://www.cs.tau.ac.il/~amberman/)
 7. [ראג'ה ג'רייס - Computer vision, Signal processing](https://www.giryes.sites.tau.ac.il/)
+8. [שי אבידן - Computer vision](http://www.eng.tau.ac.il/~avidan/)
 
 
 #### העברית
@@ -81,6 +82,8 @@
 5. [יאיר וייס - Human and machine vision. Machine Learning. Bayesian methods. Neural computation](https://www.cs.huji.ac.il/~yweiss/)
 6. [לאו יוסקוביץ' - Medical Image Processing, Computer Aided Surgery, Computational Geometry](http://www.cs.huji.ac.il/~josko/)
 7. [עמי וייזל - Statistical signal processing, Convex optimization](https://www.cs.huji.ac.il/~amiw/)
+8. [שי שלו שוורץ - Learning theory, Online learning, Self-driving cars](https://www.cs.huji.ac.il/w~shais/)
+9. [שמואל פלג - Computer vision, Computational Photography](https://www.cs.huji.ac.il/~peleg/)
 
 #### בן גוריון
 1. [אורן פרייפלד - Vision, Inference, and Learning (VIL) group](https://www.cs.bgu.ac.il/~orenfr/)
@@ -89,7 +92,7 @@
 5. [ליאור רוקח - Recommender systems, Cyber security, Information retrieval](https://www.ise.bgu.ac.il/faculty/liorr/)
 6. [מיכאל אלחדד - NLP](https://www.cs.bgu.ac.il/~elhadad/)
 7. [סיון סבתו - active and interactive learning](https://www.cs.bgu.ac.il/~sabatos/)
-8. [קובי גל](https://datasciencelab.ise.bgu.ac.il/)
+8. [קובי גל - Computer decision making, Cognitive science](https://datasciencelab.ise.bgu.ac.il/)
 9. [קובי כהן - Statistical inference and learning](http://www.ee.bgu.ac.il/~yakovsec/)
 
 #### בר אילן
