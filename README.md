@@ -30,13 +30,13 @@
 
 ### קורסים והרצאות מוקלטות
 
-1.  [עיבוד שפות טבעיות - עידו דגן ויואב גולדברג (2018)](https://www.youtube.com/playlist?list=PLM96W_EHEqh78zJ0bPqT3Wy8DPHbJU-Zh)
-2.  [למידה עמוקה - עמוס עזריה (2021)](https://www.youtube.com/watch?v=A74z-DzYt9c&list=PLRMgNpO86xg0ZRHA0QeQsvn57dq4v7iaL)
-3.  [למידה מבוססת חיזוקים - עמוס עזריה (2021)](https://www.youtube.com/watch?v=qZwM9Yxyyoo&list=PLRMgNpO86xg1QBVfnSDuzuZAPC-AdbrF6)
-4.  [למידת מכונה לתיכוניסטים - קובי מייק ואריאל בר יצחק (2020)](https://www.youtube.com/watch?v=-NvEeTnk6Ew&list=PLUGwirBvkRnv2IZ1CnrLp7tg7I-YvuVG_)
-5.  [מדעי הנתונים ולמידת מכונה - קובי מייק ואריאל בר יצחק (2020)](https://www.youtube.com/playlist?list=PLUGwirBvkRns7QihJpzVt_u9ab2xVX2Z7)
-6.  [למידת מכונה - יוסי קשת (2018)](https://www.youtube.com/playlist?list=PLM96W_EHEqh7QUKH_z-z-2muKa42n0zpK)
-7.  [דיפ קורונה אקדמי - הרצאות על מאמרים עדכניים (2020)](https://www.youtube.com/channel/UCjDbU-BKPSN0UsFq6obukUg)
+1.  [למידה עמוקה - עמוס עזריה (2021)](https://www.youtube.com/watch?v=A74z-DzYt9c&list=PLRMgNpO86xg0ZRHA0QeQsvn57dq4v7iaL)
+2.  [למידה מבוססת חיזוקים - עמוס עזריה (2021)](https://www.youtube.com/watch?v=qZwM9Yxyyoo&list=PLRMgNpO86xg1QBVfnSDuzuZAPC-AdbrF6)
+3.  [למידת מכונה לתיכוניסטים - קובי מייק ואריאל בר יצחק (2020)](https://www.youtube.com/watch?v=-NvEeTnk6Ew&list=PLUGwirBvkRnv2IZ1CnrLp7tg7I-YvuVG_)
+4.  [מדעי הנתונים ולמידת מכונה - קובי מייק ואריאל בר יצחק (2020)](https://www.youtube.com/playlist?list=PLUGwirBvkRns7QihJpzVt_u9ab2xVX2Z7)
+5.  [דיפ קורונה אקדמי - הרצאות על מאמרים עדכניים (2020)](https://www.youtube.com/channel/UCjDbU-BKPSN0UsFq6obukUg)
+6.  [עיבוד שפות טבעיות - עידו דגן ויואב גולדברג (2018)](https://www.youtube.com/playlist?list=PLM96W_EHEqh78zJ0bPqT3Wy8DPHbJU-Zh)
+7.  [למידת מכונה - יוסי קשת (2018)](https://www.youtube.com/playlist?list=PLM96W_EHEqh7QUKH_z-z-2muKa42n0zpK)
 8.  [וואן שוט לרנינג - שוקי כהן ויואל זלדס פותרים אתגרים בלייב](https://www.oneshotlearning.io/)
 9.  [פודקאסט ExplAInable - אורי גורן ותמיר נווה מדברים על Machine Learning ואתגרים בתעשייה עם מומחים מהתחום](https://explainable.podbean.com/)
 
@@ -46,16 +46,18 @@
 ## חוקרים
 
 #### טכניון
-1. [אורי שליט - healthcare, causal inference](https://web.iem.technion.ac.il/site/he/academicstaff/uri-shalit/)
+1. [אורי שליט - Healthcare, Causal Inference](https://web.iem.technion.ac.il/site/he/academicstaff/uri-shalit/)
 2. [איילת טל - Computer graphics and Computer vision](https://webee.technion.ac.il/~ayellet/)
 3. [דן גרבר - Algorithmic foundations of Machine Learning, data science, and optimization](https://dangar.net.technion.ac.il/)
 4. [יוסי קשת - Human speech](https://u.cs.biu.ac.il/~keshetj/)
 
 #### תל אביב
-1. [אמיר גלוברסון - theoretical understanding of deep learning to architectures for semantic analysis of text and images](https://cs3801.wixsite.com/amirgloberson)
-2. [דניאל כהן אור - Computer Vision](https://danielcohenor.com/)
+1. [אמיר גלוברסון - Theoretical understanding of Deep Learning to architectures for semantic analysis of text and images](https://cs3801.wixsite.com/amirgloberson)
+2. [דניאל כהן אור - Computer vision](https://danielcohenor.com/)
 3. [יונתן ברנט - NLP](http://www.cs.tau.ac.il/~joberant/)
-4. [עמית ברמנו - Computer Graphics, Computer Vision, and Copmutational Fabrication](https://www.cs.tau.ac.il/~amberman/)
+4. [נדב כהן - Theoretical and algorithmic foundations of Deep Learning](https://www.cohennadav.com/)
+5. [עמית ברמנו - Computer Graphics, Computer Vision, and Copmutational Fabrication](https://www.cs.tau.ac.il/~amberman/)
+6. [ראג'ה ג'אריס - Computer vision, Signal processing](https://www.giryes.sites.tau.ac.il/)
 
 
 #### העברית
