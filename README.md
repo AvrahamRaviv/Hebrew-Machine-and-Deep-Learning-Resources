@@ -66,12 +66,13 @@
 #### תל אביב
 1. [אמיר גלוברסון - Theoretical understanding of Deep Learning to architectures for semantic analysis of text and images](https://cs3801.wixsite.com/amirgloberson)
 2. [דניאל כהן אור - Computer vision](https://danielcohenor.com/)
-3. [יונתן ברנט - NLP](http://www.cs.tau.ac.il/~joberant/)
-4. [ליאור וולף - Computer vision](http://www.cs.tau.ac.il/~wolf/)
-5. [נדב כהן - Theoretical and algorithmic foundations of Deep Learning](https://www.cohennadav.com/)
-6. [עמית ברמנו - Computer Graphics, Computer Vision, and Copmutational Fabrication](https://www.cs.tau.ac.il/~amberman/)
-7. [ראג'ה ג'רייס - Computer vision, Signal processing](https://www.giryes.sites.tau.ac.il/)
-8. [שי אבידן - Computer vision](http://www.eng.tau.ac.il/~avidan/)
+3. [חיית גרינשפן - Medical imaging](http://www.eng.tau.ac.il/~hayit/)
+4. [יונתן ברנט - NLP](http://www.cs.tau.ac.il/~joberant/)
+5. [ליאור וולף - Computer vision](http://www.cs.tau.ac.il/~wolf/)
+6. [נדב כהן - Theoretical and algorithmic foundations of Deep Learning](https://www.cohennadav.com/)
+7. [עמית ברמנו - Computer Graphics, Computer Vision, and Copmutational Fabrication](https://www.cs.tau.ac.il/~amberman/)
+8. [ראג'ה ג'רייס - Computer vision, Signal processing](https://www.giryes.sites.tau.ac.il/)
+9. [שי אבידן - Computer vision](http://www.eng.tau.ac.il/~avidan/)
 
 
 #### העברית
@@ -94,6 +95,7 @@
 7. [סיון סבתו - active and interactive learning](https://www.cs.bgu.ac.il/~sabatos/)
 8. [קובי גל - Computer decision making, Cognitive science](https://datasciencelab.ise.bgu.ac.il/)
 9. [קובי כהן - Statistical inference and learning](http://www.ee.bgu.ac.il/~yakovsec/)
+10. [תמי ריקלין רביב - Medical imaging](https://wwwee.ee.bgu.ac.il/~rrtammy/)
 
 #### בר אילן
 1. [אופיר לינדנבאום - Unsupervised Learning, Feature selection](https://www.eng.biu.ac.il/lindeno/)
@@ -111,7 +113,8 @@
 1. [אוהד שמיר - ראייה ממוחשבת](https://sites.google.com/site/aharonbarhillel/)
 2. [גיורא אלכסנדרון - Artificial Intelligence in Education, Learning Analytics, Educational Data Science, and Computer Science Education](https://www.weizmann.ac.il/ScienceTeaching/Alexandron/)
 3. [טלי דקל - Computer vision](https://www.weizmann.ac.il/math/dekel/)
-4. [מיכל אירני - Computer vision, Image processing](http://www.weizmann.ac.il/math/irani/home)
+4. [יונינה אלדר - Signal Acquisition Modeling Processing and Learning](https://www.weizmann.ac.il/math/yonina/)
+5. [מיכל אירני - Computer vision, Image processing](http://www.weizmann.ac.il/math/irani/home)
 
 #### אריאל
 1. [אסף חוגי - Computer vision and Imaging](https://www.ariel.ac.il/projects/trp/GeneralInformation.asp?numRec=751&id_lang=2)
