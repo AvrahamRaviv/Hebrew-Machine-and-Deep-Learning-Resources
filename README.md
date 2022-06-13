@@ -103,7 +103,7 @@
 #### בר אילן
 1. [אופיר לינדנבאום - Unsupervised Learning, Feature selection](https://www.eng.biu.ac.il/lindeno/)
 2. [איתן פתיה - Bayesian models, Computer vision](https://www.eng.biu.ac.il/fetayae/)
-3. [גל צ'צ'יק - מדעי המח](https://chechiklab.biu.ac.il/)
+3. [גל צ'צ'יק - Cognitive science](https://chechiklab.biu.ac.il/)
 4. [גל קמינקא - Robotics, Social cognition](https://u.cs.biu.ac.il/~kaminkg/)
 5. [יואב גולדברג - NLP](https://www.cs.bgu.ac.il/~yoavg/uni/)
 6. [יעקב גולדברגר - Statistical Machine Learning and Deep Learning algorithms](http://www.eng.biu.ac.il/goldbej/)
