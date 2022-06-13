@@ -64,7 +64,7 @@
 16. [שי מנור - RL, High dimensional statistics and learning](https://webee.technion.ac.il/Sites/People/shie/)
 
 #### תל אביב
-2. [אלון פלד-כהן - RL](https://sites.google.com/site/aloncohentechnion/)
+1. [אלון פלד-כהן - RL](https://sites.google.com/site/aloncohentechnion/)
 3. [אמיר גלוברסון - Theoretical understanding of Deep Learning to architectures for semantic analysis of text and images](https://cs3801.wixsite.com/amirgloberson)
 4. [דניאל כהן אור - Computer vision](https://danielcohenor.com/)
 5. [חיית גרינשפן - Medical imaging](http://www.eng.tau.ac.il/~hayit/)
