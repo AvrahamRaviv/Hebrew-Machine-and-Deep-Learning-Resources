@@ -64,15 +64,16 @@
 16. [שי מנור - RL, High dimensional statistics and learning](https://webee.technion.ac.il/Sites/People/shie/)
 
 #### תל אביב
-1. [אמיר גלוברסון - Theoretical understanding of Deep Learning to architectures for semantic analysis of text and images](https://cs3801.wixsite.com/amirgloberson)
-2. [דניאל כהן אור - Computer vision](https://danielcohenor.com/)
-3. [חיית גרינשפן - Medical imaging](http://www.eng.tau.ac.il/~hayit/)
-4. [יונתן ברנט - NLP](http://www.cs.tau.ac.il/~joberant/)
-5. [ליאור וולף - Computer vision](http://www.cs.tau.ac.il/~wolf/)
-6. [נדב כהן - Theoretical and algorithmic foundations of Deep Learning](https://www.cohennadav.com/)
-7. [עמית ברמנו - Computer Graphics, Computer Vision, and Copmutational Fabrication](https://www.cs.tau.ac.il/~amberman/)
-8. [ראג'ה ג'רייס - Computer vision, Signal processing](https://www.giryes.sites.tau.ac.il/)
-9. [שי אבידן - Computer vision](http://www.eng.tau.ac.il/~avidan/)
+2. [אלון פלד-כהן - RL](https://sites.google.com/site/aloncohentechnion/)
+3. [אמיר גלוברסון - Theoretical understanding of Deep Learning to architectures for semantic analysis of text and images](https://cs3801.wixsite.com/amirgloberson)
+4. [דניאל כהן אור - Computer vision](https://danielcohenor.com/)
+5. [חיית גרינשפן - Medical imaging](http://www.eng.tau.ac.il/~hayit/)
+6. [יונתן ברנט - NLP](http://www.cs.tau.ac.il/~joberant/)
+7. [ליאור וולף - Computer vision](http://www.cs.tau.ac.il/~wolf/)
+8. [נדב כהן - Theoretical and algorithmic foundations of Deep Learning](https://www.cohennadav.com/)
+9. [עמית ברמנו - Computer Graphics, Computer Vision, and Copmutational Fabrication](https://www.cs.tau.ac.il/~amberman/)
+10. [ראג'ה ג'רייס - Computer vision, Signal processing](https://www.giryes.sites.tau.ac.il/)
+11. [שי אבידן - Computer vision](http://www.eng.tau.ac.il/~avidan/)
 
 
 #### העברית
@@ -110,7 +111,7 @@
 10. [שרית קראוס - Multy agent systems](https://u.cs.biu.ac.il/~krauss/)
 
 #### מכון ויצמן
-1. [אוהד שמיר - ראייה ממוחשבת](https://sites.google.com/site/aharonbarhillel/)
+1. [אוהד שמיר - Theoretical Machine Learning, Combine practical efficiency and theoretical insight](https://www.wisdom.weizmann.ac.il/~shamiro/)
 2. [גיורא אלכסנדרון - Artificial Intelligence in Education, Learning Analytics, Educational Data Science, and Computer Science Education](https://www.weizmann.ac.il/ScienceTeaching/Alexandron/)
 3. [טלי דקל - Computer vision](https://www.weizmann.ac.il/math/dekel/)
 4. [יונינה אלדר - Signal Acquisition Modeling Processing and Learning](https://www.weizmann.ac.il/math/yonina/)
