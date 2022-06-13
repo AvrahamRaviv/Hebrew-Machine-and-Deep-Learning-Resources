@@ -164,3 +164,5 @@
 -------------------------------------
 ### השתתפות בפרוייקט
 אם יש לכם מה להוסיף לפרוייקט - אתם יותר ממוזמנים לפתוח [pull request](https://github.com/AvrahamRaviv/Hebrew-Machine-and-Deep-Learning-Resources/pulls) או לפנות אלינו ישירות במייל: avrahamsapir1@gmail.com.
+
+רוצים לעזור לנו? מוזמנים להפיץ את המאגר על ידי פרסום לחברים וסטארים בגיט⭐
