@@ -23,7 +23,7 @@
 ### ספרים וסיכומים
 
 1.  [למידת מכונה ולמידה עמוקה בעברית](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew)
-2.  [סקירות מאמרים בעברית - Deepnightlearners](https://machinelearning.co.il/tag/deepnightlearners/)
+2.  [סקירות מאמרים בעברית - Deepnightlearners](https://github.com/michaelerlihson/scientific-resources/tree/main/DL%20papers%20reviews)
 3.  [מבוא למערכות לומדות](https://technion046195.netlify.app/)
 
 -------------------------------------
