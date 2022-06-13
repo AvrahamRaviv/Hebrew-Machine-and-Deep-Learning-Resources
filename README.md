@@ -32,13 +32,14 @@
 
 1.  [למידה עמוקה - עמוס עזריה (2021)](https://www.youtube.com/watch?v=A74z-DzYt9c&list=PLRMgNpO86xg0ZRHA0QeQsvn57dq4v7iaL)
 2.  [למידה מבוססת חיזוקים - עמוס עזריה (2021)](https://www.youtube.com/watch?v=qZwM9Yxyyoo&list=PLRMgNpO86xg1QBVfnSDuzuZAPC-AdbrF6)
-3.  [למידת מכונה לתיכוניסטים - קובי מייק ואריאל בר יצחק (2020)](https://www.youtube.com/watch?v=-NvEeTnk6Ew&list=PLUGwirBvkRnv2IZ1CnrLp7tg7I-YvuVG_)
-4.  [מדעי הנתונים ולמידת מכונה - קובי מייק ואריאל בר יצחק (2020)](https://www.youtube.com/playlist?list=PLUGwirBvkRns7QihJpzVt_u9ab2xVX2Z7)
-5.  [דיפ קורונה אקדמי - הרצאות על מאמרים עדכניים (2020)](https://www.youtube.com/channel/UCjDbU-BKPSN0UsFq6obukUg)
-6.  [עיבוד שפות טבעיות - עידו דגן ויואב גולדברג (2018)](https://www.youtube.com/playlist?list=PLM96W_EHEqh78zJ0bPqT3Wy8DPHbJU-Zh)
-7.  [למידת מכונה - יוסי קשת (2018)](https://www.youtube.com/playlist?list=PLM96W_EHEqh7QUKH_z-z-2muKa42n0zpK)
-8.  [וואן שוט לרנינג - שוקי כהן ויואל זלדס פותרים אתגרים בלייב](https://www.oneshotlearning.io/)
-9.  [פודקאסט ExplAInable - אורי גורן ותמיר נווה מדברים על Machine Learning ואתגרים בתעשייה עם מומחים מהתחום](https://explainable.podbean.com/)
+3.  [ביג דאטה ומבוא לבינה מלאכותית (תרגול) - אוריאל בנדר (2021)](https://www.youtube.com/channel/UCqIKszKTso4unJeXi1f_LfA)
+4.  [למידת מכונה לתיכוניסטים - קובי מייק ואריאל בר יצחק (2020)](https://www.youtube.com/watch?v=-NvEeTnk6Ew&list=PLUGwirBvkRnv2IZ1CnrLp7tg7I-YvuVG_)
+5.  [מדעי הנתונים ולמידת מכונה - קובי מייק ואריאל בר יצחק (2020)](https://www.youtube.com/playlist?list=PLUGwirBvkRns7QihJpzVt_u9ab2xVX2Z7)
+6.  [דיפ קורונה אקדמי - הרצאות על מאמרים עדכניים (2020)](https://www.youtube.com/channel/UCjDbU-BKPSN0UsFq6obukUg)
+7.  [עיבוד שפות טבעיות - עידו דגן ויואב גולדברג (2018)](https://www.youtube.com/playlist?list=PLM96W_EHEqh78zJ0bPqT3Wy8DPHbJU-Zh)
+8.  [למידת מכונה - יוסי קשת (2018)](https://www.youtube.com/playlist?list=PLM96W_EHEqh7QUKH_z-z-2muKa42n0zpK)
+9.  [וואן שוט לרנינג - שוקי כהן ויואל זלדס פותרים אתגרים בלייב](https://www.oneshotlearning.io/)
+10.  [פודקאסט ExplAInable - אורי גורן ותמיר נווה מדברים על Machine Learning ואתגרים בתעשייה עם מומחים מהתחום](https://explainable.podbean.com/)
 
 -------------------------------------
 
