@@ -2,19 +2,19 @@
 
 ## תוכן עניינים
 
-**[ספרים וסיכומים](#ספרים-וסיכומים)**
+**[📚ספרים וסיכומים](#ספרים-וסיכומים)**
 
-**[קורסים והרצאות מוקלטות](#קורסים-והרצאות-מוקלטות)**  
+**[🎧קורסים והרצאות מוקלטות](#קורסים-והרצאות-מוקלטות)**  
 
-**[חוקרים](#חוקרים)**  
+**[👨‍🎓👩‍🎓חוקרים](#חוקרים)**  
 
-**[דאטה](#דאטה)**
+**[💠דאטה](#דאטה)**
 
-**[אירועים וכנסים](#אירועים-וכנסים)**
+**[⚡אירועים וכנסים](#אירועים-וכנסים)**
 
-**[שונות](#שונות)**
+**[📣שונות](#שונות)**
 
-**[השתתפות בפרוייקט](#השתתפות-בפרוייקט)**  
+**[🚀השתתפות בפרוייקט](#השתתפות-בפרוייקט)**  
 
 
 -------------------------------------
@@ -72,8 +72,10 @@
 7. [ליאור וולף - Computer vision](http://www.cs.tau.ac.il/~wolf/)
 8. [נדב כהן - Theoretical and algorithmic foundations of Deep Learning](https://www.cohennadav.com/)
 9. [עמית ברמנו - Computer Graphics, Computer Vision, and Copmutational Fabrication](https://www.cs.tau.ac.il/~amberman/)
-10. [ראג'ה ג'רייס - Computer vision, Signal processing](https://www.giryes.sites.tau.ac.il/)
-11. [שי אבידן - Computer vision](http://www.eng.tau.ac.il/~avidan/)
+10. [עמית מוסקוביץ' - Methodology for statistics and Machine Learning](https://mosco.github.io/)
+11. [ערן טוך - Human-Computer interaction, Privacy engineering, Mobile privacy](https://www.tau.ac.il/profile/erant#anchor_research)
+12. [ראג'ה ג'רייס - Computer vision, Signal processing](https://www.giryes.sites.tau.ac.il/)
+13. [שי אבידן - Computer vision](http://www.eng.tau.ac.il/~avidan/)
 
 
 #### העברית
