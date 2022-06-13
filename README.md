@@ -141,6 +141,7 @@
 
 1. [גרסאות מקומיות של כנסים בינלאומיים - ישראלים שפרסמו מאמרים בכנסים הנחשבים ביותר מרצים בקצרה על המאמרים שלהם](https://www.youtube.com/playlist?list=PL1FoIGqsXJ_CoVJq2gunb1kpaE67rccjP)
 2. [מיטאפים של קהילת NLP IL](https://www.youtube.com/channel/UCXfXbnzKRgiZcTgnTK1uiqg)
+3. כנס AI & Data summit (וירטואלי) [2021](https://www.youtube.com/playlist?list=PLiIZ1i25re8DVMGniuH-wS9t1ATCUB5p9) [2022](https://youtube.com/playlist?list=PLiIZ1i25re8CzYT0jkcNGWdyz_02y1dME)
 
 -------------------------------------
 
