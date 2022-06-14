@@ -153,11 +153,12 @@
 4. [קהילת למידה מבוססת חיזוקים - Reinforcement Learning Isral](https://www.facebook.com/groups/296455247734778)
 5. [משין לרנינג ישראל](https://machinelearning.co.il/)
 6. [בלוג בינה מלאכותית - הבלוג של תמיר נווה](https://www.ai-blog.co.il/)
-7. [לוח משרות](https://machinelearning.co.il/88/machinelearningjobs/)
-8. [מדריך להרכבת מחשב ייעודי ל-Deep Learning](https://machinelearning.co.il/536/deeplearninghardware/?fbclid=IwAR27jONy3wX0BeNCzQJUDDdh8TkNGc-TlCQ2fdVEUazopAcVKVP2i1n-py4)
-9. [איך להכנס לתחום? - האם לעשות תואר שני](https://machinelearning.co.il/5237/msc/#more-5237)
-10. [איך נכנסים לעולם הדאטה סיינס - המתכון המלא](https://www.spreaker.com/user/pimedia/data-part-a?utm_campaign=episode-title&utm_medium=app&utm_source=widget)
-11. [איך לבחור את הקורס הטוב ביותר עבורכם](https://machinelearning.co.il/2424/4coursetips/?fbclid=IwAR0BGvkbJ1VftKuF1w2diBsh6jFgLWxTN7vaujNEyqbu5bUbWzX6KHQt8jo)
+7. [הבלוג של יונתן לזרסון - lifesimulator](https://lifesimulator.wordpress.com/)
+8. [לוח משרות](https://machinelearning.co.il/88/machinelearningjobs/)
+9. [מדריך להרכבת מחשב ייעודי ל-Deep Learning](https://machinelearning.co.il/536/deeplearninghardware/?fbclid=IwAR27jONy3wX0BeNCzQJUDDdh8TkNGc-TlCQ2fdVEUazopAcVKVP2i1n-py4)
+10. [איך להכנס לתחום? - האם לעשות תואר שני](https://machinelearning.co.il/5237/msc/#more-5237)
+11. [איך נכנסים לעולם הדאטה סיינס - המתכון המלא](https://www.spreaker.com/user/pimedia/data-part-a?utm_campaign=episode-title&utm_medium=app&utm_source=widget)
+12. [איך לבחור את הקורס הטוב ביותר עבורכם](https://machinelearning.co.il/2424/4coursetips/?fbclid=IwAR0BGvkbJ1VftKuF1w2diBsh6jFgLWxTN7vaujNEyqbu5bUbWzX6KHQt8jo)
 
 
 
