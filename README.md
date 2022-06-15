@@ -76,8 +76,9 @@
 9. [עמית ברמנו - Computer Graphics, Computer Vision, and Copmutational Fabrication](https://www.cs.tau.ac.il/~amberman/)
 10. [עמית מוסקוביץ' - Methodology for statistics and Machine Learning](https://mosco.github.io/)
 11. [ערן טוך - Human-Computer interaction, Privacy engineering, Mobile privacy](https://www.tau.ac.il/profile/erant#anchor_research)
-12. [ראג'ה ג'רייס - Computer vision, Signal processing](https://www.giryes.sites.tau.ac.il/)
-13. [שי אבידן - Computer vision](http://www.eng.tau.ac.il/~avidan/)
+12. [רג'א גיריש - Computer vision, Signal processing](https://www.giryes.sites.tau.ac.il/)
+13. [רן גלעד-בכרך - Machine learning and its applications for health and well-being](https://www.mlwell.org/)
+14. [שי אבידן - Computer vision](http://www.eng.tau.ac.il/~avidan/)
 
 
 #### העברית
@@ -128,6 +129,7 @@
 #### רייכמן
 1. [אריאל שמיר - image & video processing, geometric modeling, computer graphics](https://faculty.runi.ac.il/arik/site/index.asp)
 2. [יעל מוזס - Computer vision](https://www.runi.ac.il/faculty/yael)
+3. [שי פיין](https://www.runi.ac.il/faculty/shai-fine/)
 
 
 -------------------------------------
