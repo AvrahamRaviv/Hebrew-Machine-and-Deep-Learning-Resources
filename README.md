@@ -95,13 +95,16 @@
 #### בן גוריון
 1. [אורן פרייפלד - Vision, Inference, and Learning (VIL) group](https://www.cs.bgu.ac.il/~orenfr/)
 2. [אריה קנטרוביץ' - Probability_theory_and_statistics](https://www.cs.bgu.ac.il/~karyeh/)
-4. [חיים פרמוטר - Information theory](https://www.ee.bgu.ac.il/~haimp/)
-5. [ליאור רוקח - Recommender systems, Cyber security, Information retrieval](https://www.ise.bgu.ac.il/faculty/liorr/)
-6. [מיכאל אלחדד - NLP](https://www.cs.bgu.ac.il/~elhadad/)
-7. [סיון סבתו - active and interactive learning](https://www.cs.bgu.ac.il/~sabatos/)
-8. [קובי גל - Computer decision making, Cognitive science](https://datasciencelab.ise.bgu.ac.il/)
-9. [קובי כהן - Statistical inference and learning](http://www.ee.bgu.ac.il/~yakovsec/)
-10. [תמי ריקלין רביב - Medical imaging](https://wwwee.ee.bgu.ac.il/~rrtammy/)
+3. [גיא שני - RL, recommendation system](https://www.bgu.ac.il/~shanigu/)
+4. [גלעד כץ - RL, DL](https://cris.bgu.ac.il/en/persons/gilad-katz)
+5. [חיים פרמוטר - Information theory](https://www.ee.bgu.ac.il/~haimp/)
+6. [ליאור רוקח - Recommender systems, Cyber security, Information retrieval](https://www.ise.bgu.ac.il/faculty/liorr/)
+7. [מיכאל אלחדד - NLP](https://www.cs.bgu.ac.il/~elhadad/)
+8. [מיכאל פייר - Data Science, Social Networks Analysis, Data Mining](https://data4goodlab.github.io/MichaelFire/)
+9. [סיון סבתו - active and interactive learning](https://www.cs.bgu.ac.il/~sabatos/)
+10. [קובי גל - Human-Computer decision making, Cognitive science](https://datasciencelab.ise.bgu.ac.il/)
+11. [קובי כהן - Statistical inference and learning](http://www.ee.bgu.ac.il/~yakovsec/)
+12. [תמי ריקלין רביב - Medical imaging](https://wwwee.ee.bgu.ac.il/~rrtammy/)
 
 #### בר אילן
 1. [אופיר לינדנבאום - Unsupervised Learning, Feature selection](https://www.eng.biu.ac.il/lindeno/)
