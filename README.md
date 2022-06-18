@@ -41,6 +41,7 @@
 10.  [הרצאות של DataHack - הרצאות במגוון נושאים ועל המאמרים הכי עדכניים](https://www.youtube.com/channel/UCdR7G8Yeh52LK1AvfFaEsqQ/videos)
 11.  [וואן שוט לרנינג - שוקי כהן ויואל זלדס פותרים אתגרים בלייב](https://www.oneshotlearning.io/)
 12.  [פודקאסט ExplAInable - אורי גורן ותמיר נווה מדברים על Machine Learning ואתגרים בתעשייה עם מומחים מהתחום](https://explainable.podbean.com/)
+13.  [אוסף פרקים על דאטה](https://open.spotify.com/playlist/2wSbdOWmxqEDjjDErYlsvC?si=-FrWS4ZLQMehBEms8Ccv0w&utm_source=whatsapp&nd=1)
 
 -------------------------------------
 
