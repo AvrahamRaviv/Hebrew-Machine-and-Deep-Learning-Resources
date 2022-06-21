@@ -104,10 +104,11 @@
 7. [ליאור רוקח - Recommender systems, Cyber security, Information retrieval](https://www.ise.bgu.ac.il/faculty/liorr/)
 8. [מיכאל אלחדד - NLP](https://www.cs.bgu.ac.il/~elhadad/)
 9. [מיכאל פייר - Data Science, Social Networks Analysis, Data Mining](https://data4goodlab.github.io/MichaelFire/)
-10. [סיון סבתו - active and interactive learning](https://www.cs.bgu.ac.il/~sabatos/)
-11. [קובי גל - Human-Computer decision making, Cognitive science](https://datasciencelab.ise.bgu.ac.il/)
-12. [קובי כהן - Statistical inference and learning](http://www.ee.bgu.ac.il/~yakovsec/)
-13. [תמי ריקלין רביב - Medical imaging](https://wwwee.ee.bgu.ac.il/~rrtammy/)
+10. [מאיר קלך - Model-based diagnosis, Decision making](https://www.ise.bgu.ac.il/faculty/kalech/)
+11. [סיון סבתו - active and interactive learning](https://www.cs.bgu.ac.il/~sabatos/)
+12. [קובי גל - Human-Computer decision making, Cognitive science](https://datasciencelab.ise.bgu.ac.il/)
+13. [קובי כהן - Statistical inference and learning](http://www.ee.bgu.ac.il/~yakovsec/)
+14. [תמי ריקלין רביב - Medical imaging](https://wwwee.ee.bgu.ac.il/~rrtammy/)
 
 #### בר אילן
 1. [אופיר לינדנבאום - Unsupervised Learning, Feature selection](https://www.eng.biu.ac.il/lindeno/)
@@ -130,7 +131,17 @@
 
 #### אריאל
 1. [אסף חוגי - Computer vision and Imaging](https://www.ariel.ac.il/projects/trp/GeneralInformation.asp?numRec=751&id_lang=2)
-2. [עמוס עזריה - Human-agent interaction, RL](http://azariaa.com/)
+2. [אראל סגל-הלוי - Fair-division algorithms](http://erelsgl.github.io/)
+3. [בועז משה - Sensors, tinyML](https://www.ariel-asc.com/)
+4. [גיל בן ארצי - Computer Vision, Image Processing](http://www.gil-ba.com/)
+5. [חן חג'ג'  - Adversarial machine learning, Medical data science, Multimodal classification](https://www.ariel.ac.il/wp/chen-hajaj/)
+6. [ינון צוקרמן - Cognitive models, Decision-making, Autonomous agents](https://www.ariel.ac.il/wp/inon-zuckerman)
+7. [ליהי דראי - Recommender systems, Decision making, Computational social choice](https://www.ariel.ac.il/wp/lihi-dery)
+8. [ליעד גוטליב - Learning in metric and non-metric spaces](https://cs.nyu.edu/~adi/)
+9. [נועם חזון - Multi-agent systems](https://www.ariel.ac.il/wp/noam-hazon)
+10. [עמוס עזריה - Human-agent interaction, RL](http://azariaa.com/)
+11. [ענת גולדשטיין - Consumer online behavior, Digital medicine, Process mining](https://sites.google.com/site/anatgoldsteinlev/)
+12. [רן דובין - Detection of cyber-attacks](Detection of cyber-attacks using machine learning)
 
 #### רייכמן
 1. [אריאל שמיר - image & video processing, geometric modeling, computer graphics](https://faculty.runi.ac.il/arik/site/index.asp)
