@@ -141,7 +141,7 @@
 9. [נועם חזון - Multi-agent systems](https://www.ariel.ac.il/wp/noam-hazon)
 10. [עמוס עזריה - Human-agent interaction, RL](http://azariaa.com/)
 11. [ענת גולדשטיין - Consumer online behavior, Digital medicine, Process mining](https://sites.google.com/site/anatgoldsteinlev/)
-12. [רן דובין - Detection of cyber-attacks](Detection of cyber-attacks using machine learning)
+12. [רן דובין - Detection of cyber-attacks](https://www.ariel.ac.il/wp/ran-dubin/)
 
 #### רייכמן
 1. [אריאל שמיר - image & video processing, geometric modeling, computer graphics](https://faculty.runi.ac.il/arik/site/index.asp)
