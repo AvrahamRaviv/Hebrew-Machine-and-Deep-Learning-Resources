@@ -54,6 +54,7 @@
 3. [איילת טל - Computer graphics and Computer vision](https://webee.technion.ac.il/~ayellet/)
 4. [דן גרבר - Algorithmic foundations of Machine Learning, data science, and optimization](https://dangar.net.technion.ac.il/)
 5. [דן גייגר -  Probabilistic models for intelligent systems< Bayesian networks](https://www.cs.technion.ac.il/~dang/)
+6. [חיים בסקין - Representation Learning, Geometric Deep learning](https://scholar.google.co.il/citations?user=lfWCxJYAAAAJ&hl=en)
 6. [יונתן בלינקוב - NLP](https://www.cs.technion.ac.il/~belinkov/)
 7. [יוסי קשת - Human speech](https://u.cs.biu.ac.il/~keshetj/)
 8. [יניב רומנו - Theory and practice of statistical inference and Machine Learning](https://sites.google.com/view/yaniv-romano)
