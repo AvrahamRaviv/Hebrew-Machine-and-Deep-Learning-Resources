@@ -35,7 +35,7 @@
 3.  [ביג דאטה ומבוא לבינה מלאכותית (תרגול) - אוריאל בנדר (2021)](https://www.youtube.com/channel/UCqIKszKTso4unJeXi1f_LfA)
 4.  [למידת מכונה לתיכוניסטים - קובי מייק ואריאל בר יצחק (2020)](https://www.youtube.com/watch?v=-NvEeTnk6Ew&list=PLUGwirBvkRnv2IZ1CnrLp7tg7I-YvuVG_)
 5.  [מדעי הנתונים ולמידת מכונה - קובי מייק ואריאל בר יצחק (2020)](https://www.youtube.com/playlist?list=PLUGwirBvkRns7QihJpzVt_u9ab2xVX2Z7)
-6. [נושאים מתקדמים בלמידה מבוססת חיזוקים - דותן די קסטרו ושי מנור](https://www.youtube.com/playlist?list=PL_by9YR31PFvvWzLy5BECtAxn8y95eJ_5)
+6. [נושאים מתקדמים בלמידה מבוססת חיזוקים - דותן די קסטרו ושי מנור (2018)](https://www.youtube.com/playlist?list=PL_by9YR31PFvvWzLy5BECtAxn8y95eJ_5)
 7.  [עיבוד שפות טבעיות - עידו דגן ויואב גולדברג (2018)](https://www.youtube.com/playlist?list=PLM96W_EHEqh78zJ0bPqT3Wy8DPHbJU-Zh)
 8.  [למידת מכונה - יוסי קשת (2018)](https://www.youtube.com/playlist?list=PLM96W_EHEqh7QUKH_z-z-2muKa42n0zpK)
 9.  [דיפ קורונה אקדמי - הרצאות על מאמרים עדכניים](https://www.youtube.com/channel/UCjDbU-BKPSN0UsFq6obukUg)
