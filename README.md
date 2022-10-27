@@ -25,6 +25,7 @@
 1.  [למידת מכונה ולמידה עמוקה בעברית](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew)
 2.  [סקירות מאמרים בעברית - Deepnightlearners](https://github.com/michaelerlihson/scientific-resources/tree/main/DL%20papers%20reviews)
 3.  [מבוא למערכות לומדות](https://technion046195.netlify.app/)
+4.  [מבוא לבינה מלאכותית](https://math-wiki.com/index.php?title=88-7810_%D7%AA%D7%A9%D7%A3_%D7%A1%D7%9E%D7%A1%D7%98%D7%A8_%D7%91)
 
 -------------------------------------
 
