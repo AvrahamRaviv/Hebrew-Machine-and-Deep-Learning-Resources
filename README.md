@@ -156,6 +156,7 @@
 1. [אריאל שמיר - image & video processing, geometric modeling, computer graphics](https://faculty.runi.ac.il/arik/site/index.asp)
 2. [יעל מוזס - Computer vision](https://www.runi.ac.il/faculty/yael)
 3. [שי פיין](https://www.runi.ac.il/faculty/shai-fine/)
+4. [אוהד פריד - computer graphics, computer vision, and HCI](https://www.ohadf.com/)
 
 
 -------------------------------------
