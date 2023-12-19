@@ -84,7 +84,7 @@
 8. [ליאור וולף - Computer vision](http://www.cs.tau.ac.il/~wolf/)
 9. [נדב כהן - Theoretical and algorithmic foundations of Deep Learning](https://www.cohennadav.com/)
 10. [נחום קרייתי - Computer Vision for medical](https://www.kiryati.sites.tau.ac.il/)
-11. [עירד בן גל - AI & ML applications](https://engineering.tau.ac.il/profile/bengal)
+11. [עירד בן גל - AI & ML applications](https://www.iradbengal.sites.tau.ac.il/)
 12. [עמית ברמנו - Computer Graphics, Computer Vision, and Copmutational Fabrication](https://www.cs.tau.ac.il/~amberman/)
 13. [עמית מוסקוביץ' - Methodology for statistics and Machine Learning](https://mosco.github.io/)
 14. [ערן טוך - Human-Computer interaction, Privacy engineering, Mobile privacy](https://www.tau.ac.il/profile/erant#anchor_research)
